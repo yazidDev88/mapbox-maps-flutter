@@ -1,4 +1,4 @@
-FROM python:3.8.5-slim
+FROM python:3.14.0a3-slim
 
 # Install python requirements
 COPY ./requirements.txt .
